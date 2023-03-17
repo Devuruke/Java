@@ -1,6 +1,6 @@
 # Java-Topics
-This repository contains the information about Java 
-Am practicing java as the first step for learning automation testing
+This repository contains the information about Java. 
+Am practicing java as the first step for learning automation testing.
 In this repository, the topic contains:
 - Class and Objects
 - Helloworld Program
